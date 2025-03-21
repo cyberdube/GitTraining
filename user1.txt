@@ -1,3 +1,3 @@
-Conflict may happen by user1 ! 
+Conflict may happen by user1 
 
-Day 3 Over !    
+Day 3 Not  Over ! 
