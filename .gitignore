@@ -3,4 +3,3 @@
 
 # Ignore all files in the build folder
 build/!*.gitkeep
-build/*
